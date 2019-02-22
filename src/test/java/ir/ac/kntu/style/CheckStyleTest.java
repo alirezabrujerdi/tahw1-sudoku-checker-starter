@@ -32,7 +32,7 @@ import static org.junit.Assert.*;
 import org.xml.sax.InputSource;
 
 /**
- * 15 points
+ * 13 points
  *
  * @author mhrimaz
  */
@@ -178,7 +178,7 @@ public class CheckStyleTest {
          * Clean up
          */
         checker.destroy();
-        System.err.println("$$$GRADER$$$ | { type:\"SCORE\" , amount:8 , reason:\"Naming.\" } | $$$GRADER$$$" );
+        System.err.println("$$$GRADER$$$ | { type:\"SCORE\" , amount:6 , reason:\"Naming.\" } | $$$GRADER$$$" );
     }
 
     private static void listFiles(List<File> files, File folder, String extension) {
