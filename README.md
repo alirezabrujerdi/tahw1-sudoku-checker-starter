@@ -1,4 +1,4 @@
-# TA HW 1 - Sudoku Checker - 50 Points
+# TA HW 1 - Sudoku Checker - 55 Points
 
 [![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
 
